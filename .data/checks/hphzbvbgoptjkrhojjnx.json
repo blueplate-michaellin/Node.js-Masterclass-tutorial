@@ -1,1 +1,1 @@
-{"id":"hphzbvbgoptjkrhojjnx","userPhone":"1234567890","protocol":"http","url":"google.scom","method":"get","successCode":[200,201],"timeoutSeconds":2,"state":"down","lastChecked":1547378283334}
+{"id":"hphzbvbgoptjkrhojjnx","userPhone":"1234567890","protocol":"http","url":"google.com","method":"get","successCode":[200,201],"timeoutSeconds":2,"state":"down","lastChecked":1547435014708}
